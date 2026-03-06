@@ -32,7 +32,7 @@ spec:
           app:
             image:
               repository: docker.io/zefhemel/silverbullet
-              tag: 0.10.4@sha256:69e37ce27c693fe6640d2c792c5161413d0b715195660df9fea024fd42a7162b
+              tag: 2.5.2@sha256:c12db5d2408c0c41a9b7dd9dfa81dc33c0994f594771ef8e8d5be36333e23b55
             securityContext:
               allowPrivilegeEscalation: false
               readOnlyRootFilesystem: true
